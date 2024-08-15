@@ -19,6 +19,6 @@
 - 🏢 I am a Full stack WEB developer.
 - 🏫 2020 B.Tech. graduate from KTU,India.
 - 💻 Former Systems Engineer at Tata Consultancy Services Ltd, India.
-- 🙋‍ More about me: Visit my [website](https://github.com/shefin3)
+- 🙋🏻‍♂️ More about me: Visit my [website](https://github.com/shefin3)
 - 🖇 Follow me on [LinkedIn](https://www.linkedin.com/in/shefin-iqubal-287253196/)
-- 👯 Pronouns: He/Him
+- 🕺🏻 Pronouns: He/Him
