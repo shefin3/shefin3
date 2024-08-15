@@ -17,7 +17,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Let's+Connect)](https://git.io/typing-svg)
 
 - 🏢 I am a Full stack WEB developer.
-- 🏫 2020 B.Tech. graduate from KTU,India.
+- 🏫 2020 B.Tech. graduate from KTU, India.
 - 💻 Former Systems Engineer at Tata Consultancy Services Ltd, India.
 - 🙋🏻‍♂️ More about me: Visit my [website](https://github.com/shefin3)
 - 🖇 Follow me on [LinkedIn](https://www.linkedin.com/in/shefin-iqubal-287253196/)
